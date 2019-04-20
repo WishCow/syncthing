@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:buster-slim
 MAINTAINER Norbert Kéri
 WORKDIR /home/root
 ENV RELEASE linux-amd64
